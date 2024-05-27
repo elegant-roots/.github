@@ -1,4 +1,4 @@
-# 🍇 uMatter
+# 🍇 Elegant Roots
 
 Welcome to the Elegant Roots GitHub organization! We are a team of passionate developers and engineers working on innovative projects where human/people are the core.
 
